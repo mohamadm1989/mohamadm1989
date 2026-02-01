@@ -63,7 +63,11 @@
 ## 📊 إحصائيات العمل (GitHub Stats)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamadm1989&show_icons=true&theme=material-palenight&hide_border=true" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamadm1989&theme=material-palenight&hide_border=true" alt="GitHub Streak" />
+  <!-- إحصائيات اللغات الأكثر استخداماً - أكثر استقراراً -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamadm1989&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+  
+  <br /><br />
+  
+  <!-- إحصائيات عامة بتصميم آخر -->
+  <img src="https://github-readme-stats.vercel.app/api?username=mohamadm1989&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </div>
