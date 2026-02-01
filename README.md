@@ -22,55 +22,29 @@
 
 ## 🛠️ صندوق الأدوات التقني (Tech Stack)
 
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React" />
-      <br />React
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=ts" width="40" height="40" alt="TypeScript" />
-      <br />TypeScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=flutter" width="40" height="40" alt="Flutter" />
-      <br />Flutter
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Node.js" />
-      <br />Node.js
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=figma" width="40" height="40" alt="Figma" />
-      <br />Figma
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=wordpress" width="40" height="40" alt="WordPress" />
-      <br />WordPress
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,flutter,dart,nodejs,express,mongodb,figma,wordpress,git,vscode,bash&theme=dark" alt="Tech Stack" />
+</div>
 
 ---
 
 ## 🏆 أهم المشاريع (Featured Repositories)
 - **[منصة سند (lawyer-platform)](https://github.com/mohamadm1989/lawyer-platform):** النظام الذكي المتكامل لإدارة المكاتب والقضايا لمكتب المحاماة الحديث.
-- **[Clinic SaaS Platform](https://github.com/mohamadm1989/clinic-saas):** نظام متطور لإدارة العيادات الطبية كخدمة سحابية (SaaS) تركز على كفاءة الأداء وتجربة المريض.
-- **[تطبيق نوى (nawa-app)](https://github.com/mohamadm1989/nawa-app):** تطبيق مجتمعي لإعادة الإعمار السوري مبني بتقنية Flutter لتعزيز التكافل الاجتماعي الرقمي.
-
----
+- **[Clinic SaaS Platform](https://github.com/mohamadm1989/clinic-saas):** نظام متطور لإدارة العيادات الطبية كخدمة سحابية (SaaS) تركز على كفاءة الأداء.
+- **[تطبيق نوى (nawa-app)](https://github.com/mohamadm1989/nawa-app):** تطبيق مجتمعي لإعادة الإعمار السوري مبني بتقنية Flutter.
 
 ---
 
 ## 📊 إحصائيات الحساب (Account Insights)
 
-<!-- هذه الشارات تعمل دائماً ولا تتعطل أبداً -->
-![Followers](https://img.shields.io/github/followers/mohamadm1989?style=for-the-badge&logo=github&color=0A192F&labelColor=white)
-![Stars](https://img.shields.io/github/stars/mohamadm1989?style=for-the-badge&logo=github&color=0A192F&labelColor=white)
-![Repos](https://img.shields.io/github/repos/count/mohamadm1989?style=for-the-badge&logo=github&color=0A192F&labelColor=white)
+<div align="center">
+  <img src="https://img.shields.io/github/followers/mohamadm1989?style=for-the-badge&logo=github&color=0A192F&labelColor=white" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/mohamadm1989?style=for-the-badge&logo=github&color=0A192F&labelColor=white" alt="Stars" />
+  <img src="https://img.shields.io/github/repos/count/mohamadm1989?style=for-the-badge&logo=github&color=0A192F&labelColor=white" alt="Repos" />
+</div>
 
 ---
 
 <div align="center">
-  <p><i>سيتم تحديث الرسوم البيانية بمجرد عودة سيرفرات الخدمة للعمل بشكل مستقر.</i></p>
+  <img src="https://komarev.com/ghpvc/?username=mohamadm1989&label=PROFILE%20VIEWS&color=0A192F&style=flat" alt="Profile Views" />
 </div>
