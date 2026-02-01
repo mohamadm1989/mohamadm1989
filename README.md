@@ -60,14 +60,17 @@
 
 ---
 
-## 📊 إحصائيات العمل (GitHub Stats)
+---
+
+## 📊 إحصائيات الحساب (Account Insights)
+
+<!-- هذه الشارات تعمل دائماً ولا تتعطل أبداً -->
+![Followers](https://img.shields.io/github/followers/mohamadm1989?style=for-the-badge&logo=github&color=0A192F&labelColor=white)
+![Stars](https://img.shields.io/github/stars/mohamadm1989?style=for-the-badge&logo=github&color=0A192F&labelColor=white)
+![Repos](https://img.shields.io/github/repos/count/mohamadm1989?style=for-the-badge&logo=github&color=0A192F&labelColor=white)
+
+---
 
 <div align="center">
-  <!-- إحصائيات اللغات الأكثر استخداماً - أكثر استقراراً -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamadm1989&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
-  
-  <br /><br />
-  
-  <!-- إحصائيات عامة بتصميم آخر -->
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamadm1989&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <p><i>سيتم تحديث الرسوم البيانية بمجرد عودة سيرفرات الخدمة للعمل بشكل مستقر.</i></p>
 </div>
