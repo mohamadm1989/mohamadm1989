@@ -63,12 +63,7 @@
 ## 📊 إحصائيات العمل (GitHub Stats)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamadm1989&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A192F" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamadm1989&theme=tokyonight&hide_border=true&background=0A192F" alt="GitHub Streak" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mohamadm1989&label=PROFILE%20VIEWS&color=0A192F&style=flat" alt="Profile Views" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mohamadm1989&show_icons=true&theme=material-palenight&hide_border=true" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamadm1989&theme=material-palenight&hide_border=true" alt="GitHub Streak" />
 </div>
